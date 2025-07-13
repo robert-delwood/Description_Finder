@@ -21,7 +21,7 @@ After saving the changes *Description_Finder* can run again to get the descripti
 ## Prerequisites
 *Description_Finder* runs under Windows only.
 
-## Downloading *Description_Finder*r
+## Downloading *Description_Finder*
 To download *Description_Finder*,
 1. Navigate to my GitHub repository, if you are not already there: https://github.com/robert-delwood/Description_Finder
 1. Select the file: Description_Finder.exe
