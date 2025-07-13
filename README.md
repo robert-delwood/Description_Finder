@@ -25,9 +25,9 @@ After saving the changes *Description_Finder* can run again to get the descripti
 To download *Description_Finder*,
 1. Navigate to my GitHub repository, if you are not already there: https://github.com/robert-delwood/Description_Finder
 1. Select the file: Description_Finder.exe
-1. Select Raw. This displays an open file dialog.
+1. Select **Raw**. This displays an open file dialog.
 1. Navigate to the download location of your choice.
-1. Select Save. This saves the file to that location.
+1. Select **Save**. This saves the file to that location.
 
 ## Running Description_Finder
 To run *Description_Finder*,
