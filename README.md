@@ -48,9 +48,9 @@ It opens to the *Description_Finder* window.
 
 ## Operations
 To get a list of descriptions:
-1. Select Open OpenAPI file. This displays an open file dialog.
+1. Select **Open OpenAPI file**. This displays an open file dialog.
 1. Navigate to, and then select the target OpenAPI source file.
-1. Select Open. This opens the file and starts its processing. 
+1. Select **Open**. This opens the file and starts its processing. 
 This may take a moment depending on the file size and internal complexity.
 
 By default, the descriptions are automatically copied to the clipboard.
@@ -79,8 +79,8 @@ You cannot get the descriptions for a specific branch of field.
 **Close all levels**. This closes all levels for each endpoint.
 
 **Automatically copy to clipboard** (checkbox). This sets the default capability for automatically copying descriptions to the clipboard. There may instances when you want to see the field structures but not copy descriptions to the clipboard.<br>
-It checked, descriptions are copied to the clipboard.<br>
-If unchecked, descriptions are copied to the clipboard.
+* If checked, descriptions are copied to the clipboard.<br>
+* If unchecked, descriptions are copied to the clipboard.
 
 ## Caveats
 *Description_Finder* is offered and used as is.
